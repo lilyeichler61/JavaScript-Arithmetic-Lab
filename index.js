@@ -1,5 +1,5 @@
-num1=10;
-num2=5;
+var num1=10;
+var num2=5;
 
 function add() {
   return (num1+num2);
