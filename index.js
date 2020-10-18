@@ -1,9 +1,7 @@
 
 
 function add() {
-  var num1=7;
-  var num2=4;
-  return (num1+num2);
+  return (7+4);
 }
 function subtract() {
   var num3=parseInt(10,10);
