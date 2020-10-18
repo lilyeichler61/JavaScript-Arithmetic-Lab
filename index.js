@@ -1,5 +1,5 @@
-var num1=10;
-var num2=5;
+var num1=parseInt(10,10);
+var num2=parseInt(5,10);
 
 function add() {
   return (num1+num2);
